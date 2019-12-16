@@ -10,6 +10,7 @@
         } else {
             echo "Dung roi!";
         }
+
     }
 
     function binarySearch(array $numbers, $input)
